@@ -122,7 +122,7 @@ V-uptime ⇏  لرؤيةة مدة تشغيل البوت
 V-sug ⇏  لإرسآل أقترآح لمبرمج آلبوت
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 أو من خلال الرابط التالي :
-https://discordapp.com/api/oauth2/authorize?client_id=423917382474399756&permissions=268528752&scope=bot
+https://discordapp.com/oauth2/authorize?client_id=515673874495701004&scope=bot&permissions=468970647
 
 `);
 
