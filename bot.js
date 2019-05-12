@@ -29,7 +29,7 @@ client.on('ready', () => {
     
 });
 client.on("message", message => {
-    if(message.author.id !== "274923685985386496") return;
+    if(message.author.id !== "454724311194927114") return;
 
     if(message.content === "V-stop"){
         console.log("your say stop for this i'm closed");
@@ -83,7 +83,7 @@ V-inv ⇏  لدعوة آلبوت لسيرفرك
 V-sug  ⇏  لإرسآل أقترآح لمبرمج آلبوت
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 أو من خلال الرابط التالي :
-https://discordapp.com/oauth2/authorize?client_id=515673874495701004&scope=bot&permissions=468970647
+https://discordapp.com/oauth2/authorize?client_id=576931152439279626&scope=bot&permissions=468970647
 `);
 
 
@@ -122,7 +122,7 @@ V-uptime ⇏  لرؤيةة مدة تشغيل البوت
 V-sug ⇏  لإرسآل أقترآح لمبرمج آلبوت
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 أو من خلال الرابط التالي :
-https://discordapp.com/oauth2/authorize?client_id=515673874495701004&scope=bot&permissions=468970647
+https://discordapp.com/oauth2/authorize?client_id=576931152439279626&scope=bot&permissions=468970647
 
 `);
 
@@ -176,7 +176,7 @@ client.on('message', function(message) {
  .setThumbnail(client.user.avatarURL)     
  .setAuthor(message.author.username, message.author.avatarURL)
  .setTitle('Click Here To Invite The Bot | انقر هنا لاضافة البوت')
- .setURL('https://discordapp.com/api/oauth2/authorize?client_id=423917382474399756&permissions=268528752&scope=bot')
+ .setURL('https://discordapp.com/api/oauth2/authorize?client_id=576931152439279626&permissions=268528752&scope=bot')
   message.channel.sendEmbed(embed);
    }
 });
@@ -188,7 +188,7 @@ client.on('message', function(message) {
  .setThumbnail(client.user.avatarURL)     
  .setAuthor(message.author.username, message.author.avatarURL)
  .setTitle('Click Here To Invite The Bot | انقر هنا لاضافة البوت')
- .setURL('https://discordapp.com/api/oauth2/authorize?client_id=423917382474399756&permissions=268528752&scope=bot')
+ .setURL('https://discordapp.com/api/oauth2/authorize?client_id=576931152439279626&permissions=268528752&scope=bot')
   message.channel.sendEmbed(embed);
    }
 });
